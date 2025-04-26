@@ -6,6 +6,7 @@ public class IndexesofSubarraySum {
 
 
 class Solution {
+    
     static ArrayList<Integer> subarraySum(int[] arr, int target) {
         // code here
         ArrayList<Integer> ans=new ArrayList<>();
