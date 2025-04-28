@@ -6,7 +6,7 @@
 class Solution {
     int missingNumber(int arr[]) {
         // code here
-       long l=arr.length+1;
+       long l=arr.length+1 rjjawero;
        long sum1=l*(l+1)/2;
         long sum=0;
         for(int i=0;i<arr.length;i++){
